@@ -5,15 +5,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazid99" alt="sazid99" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [github.com/sazid99](github.com/sazid99)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmuduzzaman-sazid](https://www.linkedin.com/in/mahmuduzzaman-sazid)
+- 🌱 I’m currently working on **Flutter**
 
 - 📫 How to reach me **mahmuduzzamansazid@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahmuduzzaman-sazid](https://www.linkedin.com/in/mahmuduzzaman-sazid)
+
+### 💻 Technologies I Work With:
+- **Mobile App Development**: Flutter (Dart)
+- **Programming Languages**: Dart, Java
+- **Backend Knowledge**: Basic understanding for full-stack integrations
+- **Tools**: Git, Android Studio, VS Code
+
+### 🛠️ My Skills:
+- **Cross-platform mobile app development** with Flutter
+- **Clean UI Design** for enhanced user experience
+- **State Management** techniques (Provider, Bloc, etc.)
+- Integration of APIs and third-party packages
+
+### 📈 Projects:
+- 📱 **Schedule(Beta)**: An app to help manage class schedules with calendar integration and task management. *(Available on Play Store)*  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
