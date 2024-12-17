@@ -16,8 +16,8 @@
 
 <!-- About Me Section -->
 <p>
-  - 🌱 I’m currently working on <strong>Flutter</strong>  
-  - 📫 How to reach me: <strong>mahmuduzzamansazid@gmail.com</strong>  
+  - 🌱 I’m currently working on <strong>Flutter</strong>  </br>
+  - 📫 How to reach me: <strong>mahmuduzzamansazid@gmail.com</strong>   </br>
   - 📄 Know about my experiences: <a href="https://www.linkedin.com/in/mahmuduzzaman-sazid">LinkedIn Profile</a>
 </p>
 
@@ -42,7 +42,7 @@
 <!-- Projects -->
 <h3>📈 Projects:</h3>
 <ul>
-  <li>📱 <strong>Schedule(Beta)</strong>: An app to help manage class schedules with calendar integration and task management. *(Available on Play Store)*</li>
+  <li>📱 <strong>Schedule</strong>: An app to help manage class schedules with calendar integration and task management. *(Available on Play Store)* <a href="https://play.google.com/store/apps/details?id=com.schedule.routine_tracker" target="blank">Schedule - Play Store</a> </li>
 </ul>
 
 <!-- Connect With Me -->
