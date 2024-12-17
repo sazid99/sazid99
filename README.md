@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](https://media.licdn.com/dms/image/v2/D4D12AQECsJD_BbuILw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691489584837?e=2147483647&v=beta&t=ZCXUkcEO8MtPXBOIUsNvLEqtt9wPUUcsB4A9zOuofrA)
+![Header](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/11/03114948/5G-Technology.gif)
 
 <!-- Centered Title Section -->
 <h1 align="center">Hi 👋, I'm Mahmuduzzaman Sazid</h1>
